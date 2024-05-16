@@ -3,8 +3,6 @@ FACTION.desc = "Security guards of the SCP Foundation. They are tasked with main
 FACTION.color = Color(58, 102, 145)
 FACTION.isDefault = false
 -- Workshop ID for pack "2731177638"
-FACTION.models = {
-	"models/player/xuvon/xuvon_ss_re_base.mdl"
-}
+FACTION.models = {"models/player/xuvon/xuvon_ss_re_base.mdl"}
 
 FACTION_SGUARD = FACTION.index

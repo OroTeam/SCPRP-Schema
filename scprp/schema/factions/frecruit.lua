@@ -3,12 +3,6 @@ FACTION.desc = "New recruits to the SCP Foundation. They are awaiting training a
 FACTION.color = Color(41, 41, 41)
 FACTION.isDefault = true
 -- Workshop ID for pack "2973533817"
-FACTION.models = {
-	"models/nostras/visitor/male_02_visitor.mdl",
-	"models/nostras/visitor/male_04_visitor.mdl",
-	"models/nostras/visitor/male_07_visitor.mdl",
-	"models/nostras/visitor/male_08_visitor.mdl",
-	"models/nostras/visitor/male_09_visitor.mdl"
-}
+FACTION.models = {"models/nostras/visitor/male_02_visitor.mdl","models/nostras/visitor/male_04_visitor.mdl","models/nostras/visitor/male_07_visitor.mdl","models/nostras/visitor/male_08_visitor.mdl","models/nostras/visitor/male_09_visitor.mdl"}
 
 FACTION_FRECRUIT = FACTION.index

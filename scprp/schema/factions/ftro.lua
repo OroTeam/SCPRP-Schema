@@ -3,8 +3,6 @@ FACTION.desc = "Members of the SCP Foundation Tactical Response Unit. They are t
 FACTION.color = Color(41, 41, 41)
 FACTION.isDefault = false
 -- Workshop ID for pack "3028094162"
-FACTION.models = {
-	"models/lucie/tro/tacticrespoff.mdl"
-}
+FACTION.models = {"models/lucie/tro/tacticrespoff.mdl"}
 
 FACTION_TRO = FACTION.index

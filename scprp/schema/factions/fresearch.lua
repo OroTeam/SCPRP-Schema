@@ -4,14 +4,8 @@ FACTION.color = Color(88, 128, 82)
 FACTION.isDefault = false
 -- Workshop ID for pack "2985629306"
 FACTION.models = {
-	"models/uif/scientists/uif_scientist_1.mdl",
-	"models/uif/scientists/uif_scientist_2.mdl",
-	"models/uif/scientists/uif_scientist_3.mdl",
-	"models/uif/scientists/uif_scientist_4.mdl",
-	"models/uif/scientists/uif_scientist_5.mdl",
-	"models/uif/scientists/uif_scientist_6.mdl",
-	"models/uif/scientists/uif_scientist_7.mdl",
-	"models/uif/scientists/uif_scientist_8.mdl",
+	"models/uif/scientists/uif_scientist_1.mdl","models/uif/scientists/uif_scientist_2.mdl","models/uif/scientists/uif_scientist_3.mdl","models/uif/scientists/uif_scientist_4.mdl",
+	"models/uif/scientists/uif_scientist_5.mdl","models/uif/scientists/uif_scientist_6.mdl","models/uif/scientists/uif_scientist_7.mdl","models/uif/scientists/uif_scientist_8.mdl",
 	"models/uif/scientists/uif_scientist_9.mdl"
 }
 
