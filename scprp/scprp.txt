@@ -1,0 +1,7 @@
+"scprp"
+{
+	"base"		"lilia"
+	"title"		"SCP RP"
+	"author"	"Boz"
+	"category"	"rp"
+}
