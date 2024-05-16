@@ -1,6 +1,6 @@
 FACTION.name = "Foundation Recruits"
 FACTION.desc = "New recruits to the SCP Foundation. They are awaiting training and are not yet assigned to a specific department."
-FACTION.color = Color(255,140,0)
+FACTION.color = Color(41, 41, 41)
 FACTION.isDefault = true
 -- Workshop ID for pack "2973533817"
 FACTION.models = {

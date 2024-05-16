@@ -1,6 +1,6 @@
 FACTION.name = "Foundation Security Guard"
 FACTION.desc = "Security guards of the SCP Foundation. They are tasked with maintaining order and security within the facility."
-FACTION.color = Color(255,140,0)
+FACTION.color = Color(58, 102, 145)
 FACTION.isDefault = false
 -- Workshop ID for pack "2731177638"
 FACTION.models = {
